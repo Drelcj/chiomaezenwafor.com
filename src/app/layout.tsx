@@ -7,7 +7,7 @@ import Navbar from "./components/navbar/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Chioma's Blog",
+  title: "chiomaezenwafor.com | Home",
   description:
     "Great journalist, teacher and mentor, Chioma Ezenwafor shares her thoughts and experiences.",
 };
