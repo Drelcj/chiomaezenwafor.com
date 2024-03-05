@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 
 const Cravings = () => {
   return (
@@ -25,7 +26,7 @@ const Cravings = () => {
               <h2 className="card-title">About Me</h2>
               <p>Chioma Ezenwafor is a seasoned journalist and media consultant with over ten years of experience...</p>
               <div className="card-actions justify-end">
-                <button className="btn btn-primary">Read More</button>
+                <button className="btn bg-red-500 text-white"><Link href="/about"> Read More</Link></button>
               </div>
             </div>
           </div>

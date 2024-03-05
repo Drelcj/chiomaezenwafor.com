@@ -9,7 +9,7 @@ const Courses = () => {
       <h2 className="text-2xl font-bold pt-4 hover:text-red-500">Trending Posts</h2>
       </div>
       <div className="text-center p-3">
-        <Link href="/school">
+        <Link href="/blog">
           <button className="btn bg-red-500 text-white">View blog page</button>
         </Link>
       </div>
@@ -18,11 +18,11 @@ const Courses = () => {
         <div className="card card-compact w-full md:w-96 bg-base-100 shadow-xl hover:shadow-sm">
           <figure><img src="https://res.cloudinary.com/dt3czltxx/image/upload/v1709546492/IMG_63614_i2sxfs.jpg" alt="Course 1" /></figure>
           <div className="card-body">
-            <h2 className="card-title text-red-600">How I Became a News Titan</h2>
-            <p>In this blog post, I share my story of how I pursued my passion for journalism and media, from a Mass Communication Student to a Media and Communications Consultant and the challenges and opportunities I faced along the way. I also gives tips and advice for aspiring journalists and media professionals who want to make an impact in the industry.
+            <h2 className="card-title text-red-600">Discover Your Niche in the Media Industry!</h2>
+            <p>Are you passionate about storytelling, creativity, and making an impact? The media industry offers a vast landscape of opportunities waiting to be explored. Whether youU+2019re drawn to journalism, filmmaking, social media, or podcasting, thereU+2019s a niche for you. Uncover your unique voice, connect with like-minded individuals, and shape narratives that resonate. Dive into the world of media, where every story matters, and your passion can ignite change. 🎙️📺📝
 </p>
             <div className="card-actions justify-end">
-              <button className="btn text-white bg-red-500">Read More</button>
+              <button className="btn text-white bg-red-500"><Link href="https://take.quiz-maker.com/Q3KIDOHD9" target="_blank" rel="noopener noreferrer"> Read More </Link></button>
             </div>
           </div>
         </div>
@@ -33,7 +33,7 @@ const Courses = () => {
             <h2 className="card-title text-red-600">Ink and Insights: The Book Signing Hybrid Event That Connects Authors and Readers</h2>
             <p>Chioma introduces her quarterly event, Ink and Insights, where she invites authors to share their books and insights with a live and online audience. She explains the concept and benefits of the hybrid event, and how it fosters a community of book lovers and writers.</p>
             <div className="card-actions justify-end">
-              <button className="btn text-white bg-red-500">Read More</button>
+              <button className="btn text-white bg-red-500"><Link href="https://forms.gle/FDfYzfo3ukDdM3n17" target="_blank" rel="noopener noreferrer"> Read More </Link></button>
             </div>
           </div>
         </div>
@@ -41,21 +41,23 @@ const Courses = () => {
         <div className="card card-compact w-full md:w-96 bg-base-100 shadow-xl">
           <figure><img src="https://res.cloudinary.com/dt3czltxx/image/upload/v1709558731/th_zg0vzt.jpg" alt="Course 3" /></figure>
           <div className="card-body">
-            <h2 className="card-title text-red-600">Content Writing and Content Creation</h2>
-            <p>Chioma writes on content writing and content creation, where she teaches the fundamentals and best practices of writing for the web and social media platforms. She outlines the content writting intricacies, Web vs Social media content, outcomes, and steps to become a pro writter.</p>
+            <h2 className="card-title text-red-600">Top 5 Skills Every Aspiring Media Professional Should Develop in 2024</h2>
+            <p>You’ve probably heard many say that 2024 wonU+2019t be for the faint hearted. Some are even speaking of a coming disruption (a gist for another post) Whatever happens, I think it would be great to be ready...</p>
             <div className="card-actions justify-end">
-              <button className="btn text-white bg-red-500">Read More</button>
+              <button className="btn text-white bg-red-500"><Link href="https://twitter.com/chiomaezenwafo/status/1730895187751084446" target="_blank" rel="noopener noreferrer"> Read More </Link></button>
             </div>
           </div>
         </div>
 
         <div className="card card-compact w-full md:w-96 bg-base-100 shadow-xl">
-          <figure><img src="https://res.cloudinary.com/dt3czltxx/image/upload/v1709558897/IMG_6040_gbpatp.jpg" alt="Course 4" /></figure>
+          <figure><img src="https://res.cloudinary.com/dt3czltxx/image/upload/v1709635112/623ed3a22f21d_mg2fjf.jpg" alt="Course 4" /></figure>
           <div className="card-body">
-            <h2 className="card-title text-red-600">Reporting Migration: How I Won the Reporting Migration Competition in 2020</h2>
-            <p>Chioma recounts how she participated and won the Reporting Migration Competition in 2020, launched by the UN Migration, that is, the International Organization for Migration (IOM). She discusses the topic and approach of her winning article, and the importance of reporting migration issues with accuracy and sensitivity.</p>
+            <h2 className="card-title text-red-600">#StoptheSoot: Where are we with Modular Refineries?</h2>
+            <p>The deadly air pollution in oil rich Rivers State, in Southern Nigeria can only end when illegal crude oil refining is stopped, studies have shown.
+
+Overtime, modular refineries have been looked to as what could bring an end to the now multi-billion Naira illegal crude oil refining </p>
             <div className="card-actions justify-end">
-              <button className="btn text-white bg-red-500">Register</button>
+              <button className="btn text-white bg-red-500"><Link href="https://www.nigeriainfo.fm/news/homepage/stopthesoot-where-are-we-with-modular-refineries/" target="_blank" rel="noopener noreferrer"> Read More </Link></button>
             </div>
           </div>
         </div>

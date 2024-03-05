@@ -3,8 +3,8 @@ import React, { useState, useEffect } from "react";
 
 const Countdown = () => {
   // Define your countdown values (days, hours, minutes, seconds)
-  const days = 4;
-  const hours = 7;
+  const days = 3;
+  const hours = 4;
   const minutes = 24;
   const seconds = 28;
 
@@ -36,7 +36,7 @@ const Countdown = () => {
   const remainingSeconds = timeLeft % 60;
 
   return (
-          <div className="flex lg:grid-cols-4 gap-4 overflow-x-auto md:overflow-visible bg-[https://res.cloudinary.com/dt3czltxx/video/upload/v1709592700/Ink_and_Insights_meusoj.mp4] justify-around pt-40 space-x-2">
+          <div className="flex lg:grid-cols-4 gap-4 overflow-x-auto md:overflow-visible justify-around pt-40 space-x-2">
         <div className="flex gap-5">
           <div>
             <span className="countdown font-mono text-3xl">

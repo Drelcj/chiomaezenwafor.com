@@ -5,8 +5,8 @@ import { motion } from 'framer-motion';
 
 const slides = [
   {
-    title: "Welcome to Chiomaezenwafor.com",
-    subtitle: "Explore our shop, school, and blog sections",
+    title: "Welcome to chiomaezenwafor.com",
+    subtitle: "Explore my shop, school, and blog sections",
     cta: "Shop Now",
     link: "/shop",
     image: "https://res.cloudinary.com/dt3czltxx/image/upload/v1709545401/IMG_6361_qacxiu.jpg"
@@ -20,30 +20,30 @@ const slides = [
   },
   {
     title: "Learn from my years of experience",
-    subtitle: "Join our classes today",
+    subtitle: "Join my classes today",
     cta: "Join Now",
     link: "/school",
     image: "https://res.cloudinary.com/dt3czltxx/image/upload/v1709545714/IMG_63612i_nks2ww.jpg"
   },
   {
     title: "Check out what's trending",
-    subtitle: "Read our latest blog posts",
+    subtitle: "Read my latest blog posts",
     cta: "Read Now",
-    link: "/blog",
+    link: "https://www.nigeriainfo.fm/port-harcourt/",
     image: "https://res.cloudinary.com/dt3czltxx/image/upload/v1709545976/IMG_63613_sbi3na.jpg"
   },
   {
-    title: "Shop from a collection of my work",
-    subtitle: "Browse our online store",
+    title: "Grab 'Becoming a News Titan' and other books",
+    subtitle: "Browse my online store",
     cta: "Shop Now",
     link: "/shop",
-    image: "https://res.cloudinary.com/dt3czltxx/image/upload/v1709547007/IMG_63615_cwzb5o.jpg"
+    image: "https://res.cloudinary.com/dt3czltxx/image/upload/v1709628356/Book_signing_fliersrd_io6nou.jpg"
   },
   {
-    title: "Coming for my Book signing? Join Our Community",
-    subtitle: "Sign up to get an invite",
-    cta: "Sign Up",
-    link: "/signup",
+    title: "Coming for my Book signing?",
+    subtitle: "Have you RSVP'd?",
+    cta: "Register to attend.",
+    link: "https://forms.gle/FDfYzfo3ukDdM3n17",
     image: "https://res.cloudinary.com/dt3czltxx/image/upload/v1709546492/IMG_63614_i2sxfs.jpg"
   }
 ];
