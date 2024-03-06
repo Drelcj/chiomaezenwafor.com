@@ -42,7 +42,7 @@ const Countdown = () => {
             <span className="countdown font-mono text-3xl">
               {formatTime(remainingDays)}
             </span>
-            days
+            day
           </div>
           <div>
             <span className="countdown font-mono text-3xl">
@@ -54,13 +54,13 @@ const Countdown = () => {
             <span className="countdown font-mono text-3xl">
               {formatTime(remainingMinutes)}
             </span>
-            min
+            mins
           </div>
           <div>
             <span className="countdown font-mono text-3xl">
               {formatTime(remainingSeconds)}
             </span>
-            sec
+            secs
           </div>
         </div>
         <div>

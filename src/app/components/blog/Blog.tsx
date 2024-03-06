@@ -19,7 +19,7 @@ const Courses = () => {
           <figure><img src="https://res.cloudinary.com/dt3czltxx/image/upload/v1709546492/IMG_63614_i2sxfs.jpg" alt="Course 1" /></figure>
           <div className="card-body">
             <h2 className="card-title text-red-600">Discover Your Niche in the Media Industry!</h2>
-            <p>Are you passionate about storytelling, creativity, and making an impact? The media industry offers a vast landscape of opportunities waiting to be explored. Whether youU+2019re drawn to journalism, filmmaking, social media, or podcasting, thereU+2019s a niche for you. Uncover your unique voice, connect with like-minded individuals, and shape narratives that resonate. Dive into the world of media, where every story matters, and your passion can ignite change. 🎙️📺📝
+            <p>Are you passionate about storytelling, creativity, and making an impact? The media industry offers a vast landscape of opportunities waiting to be explored. Whether you&apos;re drawn to journalism, filmmaking, social media, or podcasting, there&apos;s a niche for you. Uncover your unique voice, connect with like-minded individuals, and shape narratives that resonate. Dive into the world of media, where every story matters, and your passion can ignite change. 🎙️📺📝
 </p>
             <div className="card-actions justify-end">
               <button className="btn text-white bg-red-500"><Link href="https://take.quiz-maker.com/Q3KIDOHD9" target="_blank" rel="noopener noreferrer"> Read More </Link></button>
@@ -42,7 +42,7 @@ const Courses = () => {
           <figure><img src="https://res.cloudinary.com/dt3czltxx/image/upload/v1709558731/th_zg0vzt.jpg" alt="Course 3" /></figure>
           <div className="card-body">
             <h2 className="card-title text-red-600">Top 5 Skills Every Aspiring Media Professional Should Develop in 2024</h2>
-            <p>You’ve probably heard many say that 2024 wonU+2019t be for the faint hearted. Some are even speaking of a coming disruption (a gist for another post) Whatever happens, I think it would be great to be ready...</p>
+            <p>You&apos;ve probably heard many say that 2024 won&apos;t be for the faint hearted. Some are even speaking of a coming disruption (a gist for another post) Whatever happens, I think it would be great to be ready...</p>
             <div className="card-actions justify-end">
               <button className="btn text-white bg-red-500"><Link href="https://twitter.com/chiomaezenwafo/status/1730895187751084446" target="_blank" rel="noopener noreferrer"> Read More </Link></button>
             </div>

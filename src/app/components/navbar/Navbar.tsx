@@ -80,7 +80,7 @@ const Navbar = () => {
         </ul>
       </div>
       <div className="navbar-end">
-        <a className="btn"> Log In </a>
+        <a href="/signin" className="btn"> Log In </a>
       </div>
     </div>
   );

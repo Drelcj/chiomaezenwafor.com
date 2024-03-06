@@ -37,10 +37,10 @@ const CountdownTimer = () => {
         <div className="flex gap-5">
       {/* <p>Countdown to Mar 8, 2024:</p> */}
       <div>
-        <span className="countdown font-mono text-3xl" id="days">{timeLeft.days}</span> days{' '}
+        <span className="countdown font-mono text-3xl" id="days">{timeLeft.days}</span> day{' '}
         <span className="countdown font-mono text-3xl" id="hours">{timeLeft.hours}</span> hours{' '}
-        <span className="countdown font-mono text-3xl" id="minutes">{timeLeft.minutes}</span> min{' '}
-        <span className="countdown font-mono text-3xl" id="seconds">{timeLeft.seconds}</span> sec
+        <span className="countdown font-mono text-3xl" id="minutes">{timeLeft.minutes}</span> mins{' '}
+        <span className="countdown font-mono text-3xl" id="seconds">{timeLeft.seconds}</span> secs
       </div>
     </div>
     <div>
