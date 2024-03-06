@@ -21,7 +21,9 @@ const Courses = () => {
             <h2 className="card-title text-red-600">Journalism Basics for Beginners</h2>
             <p>A comprehensive course covering the fundamentals of journalism, including writing, reporting, ethics, and investigative techniques.</p>
             <div className="card-actions justify-end">
+              <Link href="/school">
               <button className="btn text-white bg-red-500">Register</button>
+              </Link>
             </div>
           </div>
         </div>
@@ -32,7 +34,9 @@ const Courses = () => {
             <h2 className="card-title text-red-600">Broadcasting and On-Camera Skills</h2>
             <p>An interactive course to improve your on-camera presence, voice modulation, and delivery skills.</p>
             <div className="card-actions justify-end">
+            <Link href="/school">
               <button className="btn text-white bg-red-500">Register</button>
+              </Link>
             </div>
           </div>
         </div>
@@ -43,7 +47,9 @@ const Courses = () => {
             <h2 className="card-title text-red-600">Social Media Journalism</h2>
             <p>Learn how to leverage social media platforms effectively for news reporting, audience engagement, and brand building.</p>
             <div className="card-actions justify-end">
+            <Link href="/school">
               <button className="btn text-white bg-red-500">Register</button>
+              </Link>
             </div>
           </div>
         </div>
@@ -54,7 +60,9 @@ const Courses = () => {
             <h2 className="card-title text-red-600">Media Entrepreneurship</h2>
             <p>Learn how to turn your media skills into a profitable business. Explore branding, marketing, and revenue strategies.</p>
             <div className="card-actions justify-end">
+            <Link href="/school">
               <button className="btn text-white bg-red-500">Register</button>
+              </Link>
             </div>
           </div>
         </div>
