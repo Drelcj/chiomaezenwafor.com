@@ -13,9 +13,9 @@ const slides = [
   },
   {
     title: "Book signing event",
-    subtitle: "Have you made a reservation?",
-    cta: "Register now",
-    link: "https://forms.gle/FDfYzfo3ukDdM3n17",
+    subtitle: "Thank you for a successful event",
+    cta: "See highlights here",
+    link: "/media",
     image: "https://res.cloudinary.com/dt3czltxx/image/upload/v1709591169/Book_signing_flier_gwttuh.jpg"
   },
   {
@@ -40,10 +40,10 @@ const slides = [
     image: "https://res.cloudinary.com/dt3czltxx/image/upload/v1709628356/Book_signing_fliersrd_io6nou.jpg"
   },
   {
-    title: "Coming for my Book signing?",
-    subtitle: "Have you RSVP'd?",
-    cta: "Register to attend.",
-    link: "https://forms.gle/FDfYzfo3ukDdM3n17",
+    title: "Book signing event",
+    subtitle: " Thank you for a successful event",
+    cta: "See highlights here",
+    link: "/media",
     image: "https://res.cloudinary.com/dt3czltxx/image/upload/v1709546492/IMG_63614_i2sxfs.jpg"
   }
 ];

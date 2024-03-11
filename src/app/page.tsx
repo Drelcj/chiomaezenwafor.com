@@ -6,7 +6,7 @@ import Clients from "./components/clients/Clients";
 import Blog from "./components/blog/Blog";
 // import Countdwown from "./components/countdown/Countdown";
 import TestimonialSection from "./components/testimonial/Testimonial";
-import Count from "./components/count/Count";
+// import Count from "./components/count/Count";
 
 export default function Home() {
   return (
@@ -16,7 +16,7 @@ export default function Home() {
       </div>
       <div>
         {/* <Countdwown /> */}
-        <Count />
+        {/* <Count /> */}
       </div>
       <div className="pt-20 pb-20">
         <Courses />
