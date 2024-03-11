@@ -19,7 +19,7 @@ const TestimonialsPage = () => {
         {testimonials.map((testimonial, index) => (
           <div key={index} className="bg-white rounded shadow p-4 flex flex-col items-center text-center">
             <img className="rounded-full mb-4" src={testimonial.image} alt={testimonial.name} />
-            <blockquote className="text-gray-600 italic mb-2">"{testimonial.quote}"</blockquote>
+            <blockquote className="text-gray-600 italic mb-2">&quot;{testimonial.quote}&quot;</blockquote>
             <p className="font-semibold">{testimonial.name}</p>
             <p className="text-sm text-gray-500">{testimonial.position}</p>
           </div>
