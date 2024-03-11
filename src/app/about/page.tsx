@@ -18,7 +18,7 @@ const AboutMe = () => {
         A member of the Society of Nigerian Broadcasters (SNB), Nigerian Union of Journalists (NUJ), African Council for Communication Education (ACCE), International Communication Association (ICA) and the Journalism Educators Foundation (JEF). The host of the business show, Talking Figures on 92.3 Nigeria Info FM.
       </p>
       <p className="text-gray-600 mb-4">
-        She is the author of "Becoming A News Titan" and co-authored "Dream Nation by Design." She is the convener of "Ink and Insights," a book signing hybrid event that holds every quarter. Her articles have been published on nigeriainfo.fm, newstimedaily.ng, reportingmigration.org and isparkng.com. Her work on radio news spans over a decade and has impacted so many lives.
+        She is the author of &quot;Becoming A News Titan&quot; and co-authored &quot;Dream Nation by Design.&quot; She is the convener of &quot;Ink and Insights,&quot; a book signing hybrid event that holds every quarter. Her articles have been published on nigeriainfo.fm, newstimedaily.ng, reportingmigration.org and isparkng.com. Her work on radio news spans over a decade and has impacted so many lives.
       </p>
       <p className="text-gray-600 mb-4">
         She is the creator of the Reporting Political and Civic Participation Course for the African Women in Media (AWiM) organisation. She also created a Content Writing and Content Creation Course. Her contributions have led to the success of events and Media Projects like the Startup Port Harcourt Week and a reality TV show for Entrepreneurs, the Grind TV Show.
@@ -27,10 +27,10 @@ const AboutMe = () => {
         She won The Media Awards prize for News Editor of the Year 2019 edition and was listed among 50 African Women in Media celebrated for working actively in media and journalism across the continent of Africa and leading change, fostering development across sectors and impacting their local communities.
       </p>
       <p className="text-gray-600 mb-4">
-        She was announced the Prize Winner of the Reporting Migration Competition in 2020 launched by the UN Migration, that's the International Organization for Migration, IOM. She is a TEDx speaker and UN75 Speaker. She has several training certificates in various areas like Writing for the Web, social media and Journalism, Gender Reporting, Conflict Sensitive Reporting, Family Planning Reporting, Common Ground Journalism, Peace Journalism, Investigative Journalism, Solution Journalism to mention a few.
+        She was announced the Prize Winner of the Reporting Migration Competition in 2020 launched by the UN Migration, that&apos;s the International Organization for Migration, IOM. She is a TEDx speaker and UN75 Speaker. She has several training certificates in various areas like Writing for the Web, social media and Journalism, Gender Reporting, Conflict Sensitive Reporting, Family Planning Reporting, Common Ground Journalism, Peace Journalism, Investigative Journalism, Solution Journalism to mention a few.
       </p>
       <p className="text-gray-600 mb-4">
-        She has a Bachelor's Degree in Mass communication from the Nnamdi Azikiwe University, Awka Anambra state, and a Masters degree in Communication from the University of Port Harcourt. She is currently pursuing a Ph.D. in Journalism and Media Studies. She is married to Engineer Chukwudi Ezenwafor and they both live in Port Harcourt, Rivers State, Nigeria with their three amazing kids, Zina, Sineto, and Aiyima.
+        She has a Bachelor&apos;s Degree in Mass communication from the Nnamdi Azikiwe University, Awka Anambra state, and a Masters degree in Communication from the University of Port Harcourt. She is currently pursuing a Ph.D. in Journalism and Media Studies. She is married to Engineer Chukwudi Ezenwafor and they both live in Port Harcourt, Rivers State, Nigeria with their three amazing kids, Zina, Sineto, and Aiyima.
       </p>
     </div>
   );

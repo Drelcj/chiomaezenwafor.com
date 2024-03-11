@@ -6,7 +6,7 @@ const TermsOfService = () => {
       <h1 className="text-3xl text-center font-semibold text-gray-900 mb-6">Terms of Service</h1>
       <section className="mb-5 p-4 bg-white rounded shadow-sm">
         <h2 className="text-2xl font-bold text-gray-800 mb-3">1. Acceptance of Terms</h2>
-        <p className="text-gray-600">By accessing and using this blog, you accept and agree to be bound by the terms and provision of this agreement. In addition, when using this blog's particular services, you shall be subject to any posted guidelines or rules applicable to such services.</p>
+        <p className="text-gray-600">By accessing and using this blog, you accept and agree to be bound by the terms and provision of this agreement. In addition, when using this blog&apos;s particular services, you shall be subject to any posted guidelines or rules applicable to such services.</p>
       </section>
       <section className="mb-5 p-4 bg-white rounded shadow-sm">
         <h2 className="text-2xl font-bold text-gray-800 mb-3">2. Modification of Terms</h2>
@@ -26,11 +26,11 @@ const TermsOfService = () => {
       </section>
       <section className="mb-5 p-4 bg-white rounded shadow-sm">
         <h2 className="text-2xl font-bold text-gray-800 mb-3">6. Governing Law</h2>
-        <p className="text-gray-600">Any claim relating to this blog shall be governed by the laws of the blog owner's jurisdiction without regard to its conflict of law provisions.</p>
+        <p className="text-gray-600">Any claim relating to this blog shall be governed by the laws of the blog owner&apos;s jurisdiction without regard to its conflict of law provisions.</p>
       </section>
       <section className="mb-5 p-4 bg-white rounded shadow-sm">
         <h2 className="text-2xl font-bold text-gray-800 mb-3">7. Disclaimer of Warranties</h2>
-        <p className="text-gray-600">You expressly understand and agree that your use of this blog is at your sole risk. The service is provided on an "as is" and "as available" basis.</p>
+        <p className="text-gray-600">You expressly understand and agree that your use of this blog is at your sole risk. The service is provided on an &quot;as is&quot; and &quot;as available&quot; basis.</p>
       </section>
       <section className="mb-5 p-4 bg-white rounded shadow-sm">
         <h2 className="text-2xl font-bold text-gray-800 mb-3">8. Limitation of Liability</h2>

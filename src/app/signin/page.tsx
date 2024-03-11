@@ -37,7 +37,7 @@ const LoginPage = () => {
         </div>
         <p className="text-center my-4">or</p>
         <button onClick={handleGoogleSignIn} className="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded w-full">Sign in with Google</button>
-        <p className="text-gray-600 text-center mt-4">Don't have an account? <a href="/signup" className="text-red-500 hover:text-red-700">Sign up here</a></p>
+        <p className="text-gray-600 text-center mt-4">Don&apos;t have an account? <a href="/signup" className="text-red-500 hover:text-red-700">Sign up here</a></p>
       </form>
     </div>
   );

@@ -14,7 +14,7 @@ const CareerPage = () => {
           Chioma is an alumna of the prestigious Edward R. Murrow Program and has been recognized with numerous awards, including the News Editor of the Year at The Media Awards. Her work spans various media projects, and she is a respected educator, having created courses for the African Women in Media organization.
         </p>
         <p className="text-gray-600 mb-4">
-          If you're passionate about media, journalism, and storytelling, and you're looking for a place to grow and make a significant impact, we would love to hear from you.
+          If you&apos;re passionate about media, journalism, and storytelling, and you&apos;re looking for a place to grow and make a significant impact, we would love to hear from you.
         </p>
       </div>
 

@@ -4,7 +4,7 @@ const TestimonialsPage = () => {
   // Example testimonials - replace with your actual data
   const testimonials = [
     { 
-      quote: "Chioma's dedication to journalism has inspired our entire team. Her leadership in media projects is unparalleled.", 
+      quote: "Chioma&apos;s dedication to journalism has inspired our entire team. Her leadership in media projects is unparalleled.", 
       name: "Drel Chijioke", 
       position: "Colleague",
       image: "https://res.cloudinary.com/dt3czltxx/image/upload/v1709564009/drel_mid_pov.jpg_export_syl5rv.jpg" // Replace with your Cloudinary image link
