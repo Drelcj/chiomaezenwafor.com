@@ -1,5 +1,6 @@
 'use client'
 import React, { useState } from "react";
+import { FaXTwitter, FaFacebookF, FaInstagram, FaLinkedinIn } from "react-icons/fa6";
 
 interface FormData {
   name: string;
@@ -16,10 +17,10 @@ const Contact = () => {
 
   // Social media links 
   const socialMediaLinks = [
-    { name: "Instagram", url: "https://www.instagram.com/chiomaezenwafor" },
-    { name: "LinkedIn", url: "https://ng.linkedin.com/in/chiomaezenwafor" },
-    { name: "Facebook", url: "https://www.facebook.com/chiomahopeezenwafor?mibextid=LQQJ4d" },
-    { name: "X", url: "https://x.com/chiomaezenwafo?t=FRWKssWYzwedLGwCGqKEJA&s=09" },
+    { name: <FaInstagram />, url: "https://www.instagram.com/chiomaezenwafor" },
+    { name: <FaLinkedinIn />, url: "https://ng.linkedin.com/in/chiomaezenwafor" },
+    { name: <FaFacebookF />, url: "https://www.facebook.com/chiomahopeezenwafor?mibextid=LQQJ4d" },
+    { name: <FaXTwitter />, url: "https://x.com/chiomaezenwafo?t=FRWKssWYzwedLGwCGqKEJA&s=09" },
   ];
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement> | React.ChangeEvent<HTMLTextAreaElement>) => {
