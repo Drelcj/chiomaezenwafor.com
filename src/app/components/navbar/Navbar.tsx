@@ -29,8 +29,28 @@ const Navbar = () => {
             className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
           >
             <li>
-              <Link href="/school">School</Link>
+              <Link href="/">Home</Link>
             </li>
+            <li>
+              <Link href="/my-works">My Works</Link>
+            </li>
+            <li>
+              <Link href="/my-services">My Services</Link>
+              <ul className="p-2">
+                <li>
+                  <Link href="/blog">Corporate MC/Compere</Link>
+                </li>
+                <li>
+                  <Link href="/blog">Online Event Host/Anchor</Link>
+                </li>
+              </ul>
+            </li>
+            <li>
+          <Link href="/my-books">My Books</Link>
+          </li>
+          <li>
+          <Link href="/my-online-courses">My Online Courses</Link>
+          </li>
             <li>
               <Link href="/blog">Blog</Link>
               <ul className="p-2">
@@ -38,13 +58,21 @@ const Navbar = () => {
                   <Link href="/blog">News Content</Link>
                 </li>
                 <li>
-                  <Link href="/blog">Trending</Link>
+                  <Link href="/articles">Articles</Link>
                 </li>
               </ul>
             </li>
             <li>
-              <Link href="/shop">For You</Link>
-            </li>
+            <details>
+              <summary><Link href="/about">About Me</Link></summary>
+              <ul className="p-2">
+                <li>
+                  <Link href="/contact">Contact Me</Link>
+                </li>
+              
+              </ul>
+            </details>
+          </li>
           </ul>
         </div>
         <Link href="/">
@@ -58,8 +86,30 @@ const Navbar = () => {
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
+        <li>
+              <Link href="/">Home</Link>
+            </li>
           <li>
-          <Link href="/school">School</Link>
+          <Link href="/my-works">My Works</Link>
+          </li>
+          <li>
+            <details>
+              <summary><Link href="/my-services">My Services</Link></summary>
+              <ul className="p-2">
+                <li>
+                  <Link href="/blog">Corporate MC/Compere</Link>
+                </li>
+                <li>
+                <Link href="/articles">Online Event Host/Anchor</Link>
+                </li>
+              </ul>
+            </details>
+          </li>
+          <li>
+          <Link href="/my-books">My Books</Link>
+          </li>
+          <li>
+          <Link href="/my-online-courses">My Online Courses</Link>
           </li>
           <li>
             <details>
@@ -69,18 +119,26 @@ const Navbar = () => {
                   <Link href="/blog">News Content</Link>
                 </li>
                 <li>
-                <Link href="/blog">Trending</Link>
+                <Link href="/articles">Articles</Link>
                 </li>
               </ul>
             </details>
           </li>
           <li>
-            <Link href="/shop">For You</Link>
+            <details>
+              <summary><Link href="/about">About Me</Link></summary>
+              <ul className="p-2">
+                <li>
+                  <Link href="/contact">Contact Me</Link>
+                </li>
+
+              </ul>
+            </details>
           </li>
         </ul>
       </div>
       <div className="navbar-end">
-        <a href="/signin" className="btn"> Log In </a>
+        <Link href="/signin" className="btn"> Log In </Link>
       </div>
     </div>
   );
