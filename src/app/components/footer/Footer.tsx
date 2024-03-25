@@ -7,7 +7,11 @@ const Footer = () => {
     <div>
         <footer className="footer p-10 bg-base-200 text-base-content">
   <nav>
-    <header className="footer-title ">Services</header> 
+    <header className="footer-title ">Chioma Ezenwafor</header> 
+    <Link href='/my-services' className="link link-hover text-red-500">My Services</Link>
+    <Link href='/my-books' className="link link-hover text-red-500">My Books</Link>
+    <Link href='/my-online-courses' className="link link-hover text-red-500">My Online Courses</Link>
+    <Link href='/my-works' className="link link-hover text-red-500">My Works</Link>
     <Link href='/projects' className="link link-hover text-red-500">Projects</Link>
     <Link href='/testimonials' className="link link-hover text-red-500">Testimonials</Link>
     <Link href='/blog' className="link link-hover text-red-500">Blog</Link>

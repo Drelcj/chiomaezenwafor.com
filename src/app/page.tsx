@@ -20,7 +20,7 @@ export default function Home() {
         {/* <Count /> */}
       </div>
       <div className="pt-20 pb-20">
-        <Courses />
+      <Blog />
       </div>
          <div>
         <Register />
@@ -30,7 +30,7 @@ export default function Home() {
         <ProjectsCta />
       </div>
       <div>
-        <Blog />
+      <Courses />
       </div>
       <div>
         <TestimonialSection />
