@@ -34,8 +34,8 @@ const Myservices = () => {
             <h2 className="card-title text-red-600">Engage the Digital Crowd: Your Online Event Host & Anchor</h2>
             <p>Experience the difference with a skilled Online Event Host & Anchor.  I excel at fostering audience participation, navigating online platforms with ease, and keeping your virtual event engaging and on track.</p>
             <div className="card-actions justify-end">
-            <Link href="/school">
-              <button className="btn text-white bg-red-500">Register</button>
+            <Link href="/contact">
+              <button className="btn text-white bg-red-500">Contact Me</button>
               </Link>
             </div>
           </div>

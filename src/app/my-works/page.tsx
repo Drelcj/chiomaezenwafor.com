@@ -16,7 +16,7 @@ const Myworks = () => {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 overflow-x-auto md:overflow-visible">
         <div className="card card-compact w-full md:w-96 bg-base-100 shadow-xl hover:shadow-sm">
-          <figure><img src="https://res.cloudinary.com/dt3czltxx/image/upload/v1709548336/R_aixpub.png" alt="Course 1" /></figure>
+          <figure><img src="https://res.cloudinary.com/dt3czltxx/image/upload/v1710521883/News%20Titan%20Gallery/_S4A7976_rv7ord.jpg" alt="Course 1" /></figure>
           <div className="card-body">
             <h2 className="card-title text-red-600">TV Appearances </h2>
             <p>A comprehensive course covering the fundamentals of journalism, including writing, reporting, ethics, and investigative techniques.</p>
@@ -29,7 +29,7 @@ const Myworks = () => {
         </div>
 
         <div className="card card-compact w-full md:w-96 bg-base-100 shadow-xl">
-          <figure><img src="https://res.cloudinary.com/dt3czltxx/image/upload/v1709548510/R_2_q4tbuj.jpg" alt="Course 2" /></figure>
+          <figure><img src="https://res.cloudinary.com/dt3czltxx/image/upload/v1710521882/News%20Titan%20Gallery/_S4A7961_y2xpwv.jpg" alt="Course 2" /></figure>
           <div className="card-body">
             <h2 className="card-title text-red-600">Talking Figures Show</h2>
             <p>An interactive course to improve your on-camera presence, voice modulation, and delivery skills.</p>
