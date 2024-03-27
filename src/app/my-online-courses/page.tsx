@@ -9,7 +9,7 @@ const MyOnlineCourses = () => {
       <h2 className="text-2xl font-bold pt-4 hover:text-red-500">Trending Courses</h2>
       </div>
       <div className="text-center p-3">
-        <Link href="/school">
+        <Link href="/register">
           <button className="btn bg-red-500 text-white">View all courses</button>
         </Link>
       </div>
@@ -21,7 +21,7 @@ const MyOnlineCourses = () => {
             <h2 className="card-title text-red-600">Journalism Basics for Beginners</h2>
             <p>A comprehensive course covering the fundamentals of journalism, including writing, reporting, ethics, and investigative techniques.</p>
             <div className="card-actions justify-end">
-              <Link href="/school">
+              <Link href="/register">
               <button className="btn text-white bg-red-500">Register</button>
               </Link>
             </div>
@@ -34,7 +34,7 @@ const MyOnlineCourses = () => {
             <h2 className="card-title text-red-600">Broadcasting and On-Camera Skills</h2>
             <p>An interactive course to improve your on-camera presence, voice modulation, and delivery skills.</p>
             <div className="card-actions justify-end">
-            <Link href="/school">
+            <Link href="/register">
               <button className="btn text-white bg-red-500">Register</button>
               </Link>
             </div>
@@ -47,7 +47,7 @@ const MyOnlineCourses = () => {
             <h2 className="card-title text-red-600">Social Media Journalism</h2>
             <p>Learn how to leverage social media platforms effectively for news reporting, audience engagement, and brand building.</p>
             <div className="card-actions justify-end">
-            <Link href="/school">
+            <Link href="/register">
               <button className="btn text-white bg-red-500">Register</button>
               </Link>
             </div>
@@ -60,7 +60,7 @@ const MyOnlineCourses = () => {
             <h2 className="card-title text-red-600">Media Entrepreneurship</h2>
             <p>Learn how to turn your media skills into a profitable business. Explore branding, marketing, and revenue strategies.</p>
             <div className="card-actions justify-end">
-            <Link href="/school">
+            <Link href="/register">
               <button className="btn text-white bg-red-500">Register</button>
               </Link>
             </div>

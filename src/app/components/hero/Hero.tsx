@@ -5,10 +5,10 @@ import { motion } from 'framer-motion';
 
 const slides = [
   {
-    title: "Welcome to chiomaezenwafor.com",
-    subtitle: "Explore my shop, school, and blog sections",
-    cta: "Shop Now",
-    link: "/shop",
+    title: "Explore My Professional Odyssey",
+    subtitle: "Journey Through My Authored Pages, Curated Lessons, and Thought Pieces",
+    cta: "Begin Your Exploration",
+    link: "/my-services",
     image: "https://res.cloudinary.com/dt3czltxx/image/upload/v1709545401/IMG_6361_qacxiu.jpg"
   },
   {
@@ -22,7 +22,7 @@ const slides = [
     title: "Learn from my years of experience",
     subtitle: "Join my classes today",
     cta: "Join Now",
-    link: "/school",
+    link: "/my-online-courses",
     image: "https://res.cloudinary.com/dt3czltxx/image/upload/v1709545714/IMG_63612i_nks2ww.jpg"
   },
   {
@@ -36,7 +36,7 @@ const slides = [
     title: "Grab 'Becoming a News Titan' and other books",
     subtitle: "Browse my online store",
     cta: "Shop Now",
-    link: "/shop",
+    link: "/my-books",
     image: "https://res.cloudinary.com/dt3czltxx/image/upload/v1709628356/Book_signing_fliersrd_io6nou.jpg"
   },
   {

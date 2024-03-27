@@ -41,31 +41,55 @@ const Myservices = () => {
           </div>
         </div>
 
-        {/* <div className="card card-compact w-full md:w-96 bg-base-100 shadow-xl">
-          <figure><img src="https://res.cloudinary.com/dt3czltxx/image/upload/v1709548803/8632457194_45d1f6a009_b_lnlcfu.jpg" alt="Course 3" /></figure>
+        <div className="card card-compact w-full md:w-96 bg-base-100 shadow-xl">
+          <figure><img src="https://res.cloudinary.com/dt3czltxx/image/upload/v1711535544/www.chiomaezenwafor.com/Media_Training_grhth7.jpg" alt="Course 3" /></figure>
           <div className="card-body">
-            <h2 className="card-title text-red-600">Social Media Journalism</h2>
-            <p>Learn how to leverage social media platforms effectively for news reporting, audience engagement, and brand building.</p>
+            <h2 className="card-title text-red-600">Media Training</h2>
+            <p>Elevate your broadcast presence with my bespoke media training services. I offer insider insights to refine your messaging, enhance your vocal delivery, and captivate your audience. Whether you&apos;re preparing for an interview, podcast, or live broadcast, my tailored sessions will empower you with the confidence and skills to communicate effectively and leave a lasting impression.</p>
             <div className="card-actions justify-end">
-            <Link href="/school">
+            <Link href="/contact">
               <button className="btn text-white bg-red-500">Register</button>
               </Link>
             </div>
           </div>
-        </div> */}
+        </div>
 
-        {/* <div className="card card-compact w-full md:w-96 bg-base-100 shadow-xl">
+        <div className="card card-compact w-full md:w-96 bg-base-100 shadow-xl">
           <figure><img src="https://res.cloudinary.com/dt3czltxx/image/upload/v1709548696/R_4_qhle32.jpg" alt="Course 4" /></figure>
           <div className="card-body">
-            <h2 className="card-title text-red-600">Media Entrepreneurship</h2>
-            <p>Learn how to turn your media skills into a profitable business. Explore branding, marketing, and revenue strategies.</p>
+            <h2 className="card-title text-red-600">Media/Content Consulting</h2>
+            <p>As a seasoned News Manager for leading radio brands, I offer first-rate media and content consulting services. Drawing from my extensive background, I provide strategic advice to amplify your content&apos;s reach and effectiveness. My approach is tailored to your unique needs, ensuring your message engages your audience and strengthens your media footprint.</p>
             <div className="card-actions justify-end">
-            <Link href="/school">
-              <button className="btn text-white bg-red-500">Register</button>
+            <Link href="/contact">
+              <button className="btn text-white bg-red-500">Book a session</button>
               </Link>
             </div>
           </div>
-        </div> */}
+        </div>
+        <div className="card card-compact w-full md:w-96 bg-base-100 shadow-xl">
+          <figure><img src="https://res.cloudinary.com/dt3czltxx/image/upload/v1711537517/www.chiomaezenwafor.com/OIP_1_wonc2b.jpg" alt="Course 4" /></figure>
+          <div className="card-body">
+            <h2 className="card-title text-red-600">Course Creation</h2>
+            <p>I specialize in crafting educational experiences that inspire and inform. With my expertise in course creation, I develop comprehensive online courses that cater to diverse learning styles. My approach integrates interactive content, practical exercises, and the latest e-learning technologies to ensure a dynamic and effective learning journey.</p>
+            <div className="card-actions justify-end">
+            <Link href="/contact">
+              <button className="btn text-white bg-red-500">Book a session</button>
+              </Link>
+            </div>
+          </div>
+        </div>
+        <div className="card card-compact w-full md:w-96 bg-base-100 shadow-xl">
+          <figure><img src="https://res.cloudinary.com/dt3czltxx/image/upload/v1711537994/www.chiomaezenwafor.com/How-Long-Does-It-Take-to-Shoot-a-Film-Exploring-the-World-of-Filmmaking_j2kabg.jpg" alt="Course 4" /></figure>
+          <div className="card-body">
+            <h2 className="card-title text-red-600">Documentary Production</h2>
+            <p>My passion for storytelling is brought to life through documentary production. I create compelling narratives that explore intriguing subjects and present them with authenticity. My work in documentary filmmaking involves meticulous research, creative direction, and a keen eye for detail, resulting in productions that educate, engage, and evoke emotion.</p>
+            <div className="card-actions justify-end">
+            <Link href="/contact">
+              <button className="btn text-white bg-red-500">Contact Me</button>
+              </Link>
+            </div>
+          </div>
+        </div>
       </div>
       
     </div>
